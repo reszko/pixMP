@@ -1,7 +1,7 @@
 <?php
 
 //Key de testes do Mercado Pago
-defined('KEY_MP') || define('KEY_MP', 'TEST-267350600748308-060821-0005f9aa1a8c2cd7ee85875a1f5ea01c-14211333');
+defined('KEY_MP') || define('KEY_MP', 'COLOQUE SUA CHAVE TESTE AQUI');
 
 
 /*
