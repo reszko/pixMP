@@ -35,9 +35,9 @@ class Pagamento extends BaseController
 		$payment->description = $post['produto'];
 		$payment->payment_method_id = "pix";
 		$payment->payer = array(
-			"email" => "fabio@codeigniter.com.br",
-			"first_name" => "Fabio",
-			"last_name" => "Reszko",
+			"email" => "seu@email.com",
+			"first_name" => "Seu",
+			"last_name" => "Nome",
 			"identification" => array(
 				"type" => "CPF",
 				"number" => "19119119100"
